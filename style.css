@@ -119,8 +119,6 @@
   visibility: visible;
   transform: scaleY(1);
 }
-.menu ul li ul li{
-}
 .menu ul li ul li a{
   border-bottom: 1px solid #ddd;
   padding: 20px 40px;
@@ -307,8 +305,6 @@
 
 
 /* The Footer */
-#footer{
-}
 .copyright{
   color: #fff;
   background-color: rgb(83, 110, 110);
