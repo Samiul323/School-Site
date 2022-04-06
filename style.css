@@ -23,7 +23,7 @@
   height: 195px;
   margin: auto;
   border: 1px solid #ddd;
-  background-image: url(../../Download/cover.jpeg);
+  background-image: url(img/cover.jpeg);
   background-position: bottom;
   background-size: 100%;
 }
@@ -132,7 +132,7 @@
 
 /* Background Image Text */
 .bg-img-text{
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpaqMQQ0LX-omjNIpQWsTP5_MaNTRXV4mQw&usqp=CAU);
+  background-image: url(img/banner.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   
